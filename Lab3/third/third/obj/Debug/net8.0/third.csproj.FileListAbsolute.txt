@@ -1,0 +1,14 @@
+/home/gr624_choaad/RiderProjects/Lab3/third/third/bin/Debug/net8.0/third
+/home/gr624_choaad/RiderProjects/Lab3/third/third/bin/Debug/net8.0/third.deps.json
+/home/gr624_choaad/RiderProjects/Lab3/third/third/bin/Debug/net8.0/third.runtimeconfig.json
+/home/gr624_choaad/RiderProjects/Lab3/third/third/bin/Debug/net8.0/third.dll
+/home/gr624_choaad/RiderProjects/Lab3/third/third/bin/Debug/net8.0/third.pdb
+/home/gr624_choaad/RiderProjects/Lab3/third/third/obj/Debug/net8.0/third.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr624_choaad/RiderProjects/Lab3/third/third/obj/Debug/net8.0/third.AssemblyInfoInputs.cache
+/home/gr624_choaad/RiderProjects/Lab3/third/third/obj/Debug/net8.0/third.AssemblyInfo.cs
+/home/gr624_choaad/RiderProjects/Lab3/third/third/obj/Debug/net8.0/third.csproj.CoreCompileInputs.cache
+/home/gr624_choaad/RiderProjects/Lab3/third/third/obj/Debug/net8.0/third.dll
+/home/gr624_choaad/RiderProjects/Lab3/third/third/obj/Debug/net8.0/refint/third.dll
+/home/gr624_choaad/RiderProjects/Lab3/third/third/obj/Debug/net8.0/third.pdb
+/home/gr624_choaad/RiderProjects/Lab3/third/third/obj/Debug/net8.0/third.genruntimeconfig.cache
+/home/gr624_choaad/RiderProjects/Lab3/third/third/obj/Debug/net8.0/ref/third.dll

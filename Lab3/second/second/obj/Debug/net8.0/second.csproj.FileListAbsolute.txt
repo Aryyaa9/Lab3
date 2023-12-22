@@ -1,0 +1,14 @@
+/home/gr624_choaad/RiderProjects/Lab3/second/second/bin/Debug/net8.0/second
+/home/gr624_choaad/RiderProjects/Lab3/second/second/bin/Debug/net8.0/second.deps.json
+/home/gr624_choaad/RiderProjects/Lab3/second/second/bin/Debug/net8.0/second.runtimeconfig.json
+/home/gr624_choaad/RiderProjects/Lab3/second/second/bin/Debug/net8.0/second.dll
+/home/gr624_choaad/RiderProjects/Lab3/second/second/bin/Debug/net8.0/second.pdb
+/home/gr624_choaad/RiderProjects/Lab3/second/second/obj/Debug/net8.0/second.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr624_choaad/RiderProjects/Lab3/second/second/obj/Debug/net8.0/second.AssemblyInfoInputs.cache
+/home/gr624_choaad/RiderProjects/Lab3/second/second/obj/Debug/net8.0/second.AssemblyInfo.cs
+/home/gr624_choaad/RiderProjects/Lab3/second/second/obj/Debug/net8.0/second.csproj.CoreCompileInputs.cache
+/home/gr624_choaad/RiderProjects/Lab3/second/second/obj/Debug/net8.0/second.dll
+/home/gr624_choaad/RiderProjects/Lab3/second/second/obj/Debug/net8.0/refint/second.dll
+/home/gr624_choaad/RiderProjects/Lab3/second/second/obj/Debug/net8.0/second.pdb
+/home/gr624_choaad/RiderProjects/Lab3/second/second/obj/Debug/net8.0/second.genruntimeconfig.cache
+/home/gr624_choaad/RiderProjects/Lab3/second/second/obj/Debug/net8.0/ref/second.dll

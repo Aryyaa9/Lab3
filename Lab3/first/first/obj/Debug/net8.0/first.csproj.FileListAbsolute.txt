@@ -1,0 +1,14 @@
+/home/gr624_choaad/RiderProjects/Lab3/first/first/bin/Debug/net8.0/first
+/home/gr624_choaad/RiderProjects/Lab3/first/first/bin/Debug/net8.0/first.deps.json
+/home/gr624_choaad/RiderProjects/Lab3/first/first/bin/Debug/net8.0/first.runtimeconfig.json
+/home/gr624_choaad/RiderProjects/Lab3/first/first/bin/Debug/net8.0/first.dll
+/home/gr624_choaad/RiderProjects/Lab3/first/first/bin/Debug/net8.0/first.pdb
+/home/gr624_choaad/RiderProjects/Lab3/first/first/obj/Debug/net8.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr624_choaad/RiderProjects/Lab3/first/first/obj/Debug/net8.0/first.AssemblyInfoInputs.cache
+/home/gr624_choaad/RiderProjects/Lab3/first/first/obj/Debug/net8.0/first.AssemblyInfo.cs
+/home/gr624_choaad/RiderProjects/Lab3/first/first/obj/Debug/net8.0/first.csproj.CoreCompileInputs.cache
+/home/gr624_choaad/RiderProjects/Lab3/first/first/obj/Debug/net8.0/first.dll
+/home/gr624_choaad/RiderProjects/Lab3/first/first/obj/Debug/net8.0/refint/first.dll
+/home/gr624_choaad/RiderProjects/Lab3/first/first/obj/Debug/net8.0/first.pdb
+/home/gr624_choaad/RiderProjects/Lab3/first/first/obj/Debug/net8.0/first.genruntimeconfig.cache
+/home/gr624_choaad/RiderProjects/Lab3/first/first/obj/Debug/net8.0/ref/first.dll

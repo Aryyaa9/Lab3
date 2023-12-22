@@ -1,0 +1,8 @@
+18 21 28 28 23 23  Unlucky
+17 15 20 23 9 2  Unlucky
+1 19 9 4 16 21  Lucky
+16 14 9 3 18 7  Lucky
+16 2 20 7 1 1  Lucky
+12 17 25 6 30 28  Unlucky
+16 13 13 1 30 13  Unlucky
+6 22 23 5 28 10  Unlucky
