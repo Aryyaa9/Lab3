@@ -13,8 +13,7 @@ namespace ConsoleApp
             using (StreamReader reader = new StreamReader(path))
             {
                 string numbers = reader.ReadToEnd();
-                reader.Close();
-
+                
                 
                 using (StreamWriter writer = new StreamWriter(path))
                 {
