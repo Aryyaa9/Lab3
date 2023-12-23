@@ -12,7 +12,7 @@ namespace ConsoleApp
 
             using (StreamWriter writer = new StreamWriter(path, false))
             {
-                writer.WriteLineAsync(ai());
+                writer.WriteLine(ai());
             }
 
             using (StreamReader reader = new StreamReader(path))
@@ -22,7 +22,7 @@ namespace ConsoleApp
 
                 using (StreamWriter writer2 = new StreamWriter(path2, false))
                 {
-                    writer2.WriteAsync(output(numbers));
+                    writer2.Write(output(numbers));
                 }
             }
         }
